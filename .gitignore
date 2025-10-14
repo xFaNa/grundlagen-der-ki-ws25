@@ -1,0 +1,19 @@
+cat > .gitignore << 'Eof'
+#Java
+*.class
+/out/
+/build/
+/.gradle/
+*.iml
+
+#Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+#macOS & IDEs
+.DS_Store
+./idea/
+.vscode/
+EOF
