@@ -10,5 +10,5 @@ Dieses Repository enthält die **Lösungen der Praktikumsaufgaben** aus dem Modu
 
 ## 📁 Struktur
 
-Die Lösungen der **Übungsblätter** liegen in eigenen Unterordnern:
+Die Lösungen der **Übungsblätter** liegen in den Unterordnern.
 
